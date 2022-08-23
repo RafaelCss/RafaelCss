@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Rafael github stats](https://github-readme-stats.vercel.app/api?username=Rafaelcss)
+![Rafael github stats](https://github-readme-stats.vercel.app/api?username=Rafaelcss&show_icons=true&theme=radical)
