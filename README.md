@@ -11,6 +11,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" />
 </div>
 
@@ -22,14 +24,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  
 
-![Snake animation](https://github.com/RafaelCss/RafaelCss/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/RafaelCss/RafaelCss/blob/output/github-contribution-grid-snake.svg) -->
 
   
   
   
   
-  
+  ## Contatos:
  <div>
 <a href = "mailto:rf2014souza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-carlos-a1a007201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
