@@ -1,7 +1,7 @@
 # Olá meu nome é Rafael  👋
 
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
@@ -14,11 +14,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" />
 </div>
 
+
+## Estatísticas GitHub
 <div>
 <a href="https://github.com/RafaelCss">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCss&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 ![Snake animation](https://github.com/RafaelCss/RafaelCss/blob/output/github-contribution-grid-snake.svg)
 
