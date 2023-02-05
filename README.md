@@ -1,6 +1,10 @@
 # Olá meu nome é Rafael  👋
 
 
+
+Um desenvolvedor FullStack
+
+
 ## Ferramentas e Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
