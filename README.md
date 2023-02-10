@@ -2,7 +2,7 @@
 
 
 
-Um desenvolvedor FullStack
+Um desenvolvedor Full Stack
 
 
 ## Ferramentas e Tecnologias
