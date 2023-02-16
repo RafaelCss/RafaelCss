@@ -6,7 +6,7 @@ Um desenvolvedor Full Stack
 
 
 ## Ferramentas e Tecnologias
-<div>
+<div style="background-color:red">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
@@ -19,7 +19,7 @@ Um desenvolvedor Full Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="60" height="60" style="color:white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="60" height="60" style="background-colo:white" />
           
 </div>
 <img src="https://media.licdn.com/dms/image/C4D22AQEwEN58FwJ3hQ/feedshare-shrink_800/0/1676406614243?e=1679529600&v=beta&t=wL3Qjs8ICQf1w5Gu-PHZN3FNEePOd01qyM8n_ImEnVc"  style="color:white" />
