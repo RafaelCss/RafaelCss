@@ -4,6 +4,7 @@
 
 Um desenvolvedor Full Stack
 
+<img src="https://media.licdn.com/dms/image/C4D22AQEwEN58FwJ3hQ/feedshare-shrink_800/0/1676406614243?e=1679529600&v=beta&t=wL3Qjs8ICQf1w5Gu-PHZN3FNEePOd01qyM8n_ImEnVc"  style="color:white" />
 
 ## Ferramentas e Tecnologias
 <div style="background-color:red">
@@ -22,7 +23,7 @@ Um desenvolvedor Full Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="60" height="60" style="background-colo:white" />
           
 </div>
-<img src="https://media.licdn.com/dms/image/C4D22AQEwEN58FwJ3hQ/feedshare-shrink_800/0/1676406614243?e=1679529600&v=beta&t=wL3Qjs8ICQf1w5Gu-PHZN3FNEePOd01qyM8n_ImEnVc"  style="color:white" />
+
 
 ## Estatísticas GitHub
 <div>
