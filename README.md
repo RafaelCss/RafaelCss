@@ -2,7 +2,7 @@
 
 
 
-Um desenvolvedor Full Stack pronto para criar coisas novas ....
+// Um desenvolvedor Full Stack pronto para criar coisas novas ....
 
 <img src="https://media.licdn.com/dms/image/C4D22AQEwEN58FwJ3hQ/feedshare-shrink_800/0/1676406614243?e=1679529600&v=beta&t=wL3Qjs8ICQf1w5Gu-PHZN3FNEePOd01qyM8n_ImEnVc"  style="color:white" />
 
