@@ -2,7 +2,7 @@
 
 
 
-Um desenvolvedor  pronto para criar coisas novas.....
+Um desenvolvedor  pronto para criar coisas novas....
 
 
 ## Ferramentas e Tecnologias
