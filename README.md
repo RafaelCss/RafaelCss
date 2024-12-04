@@ -1,36 +1,28 @@
-# Olá meu nome é Rafael  👋
+# Bem-vindo ao Meu GitHub 👋
+
+Olá! Eu sou o Rafael, um desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado e inovação. Este é o meu espaço no GitHub, onde compartilho projetos, ideias e experiências de desenvolvimento.
+
+## Sobre Mim
+
+💻 Desenvolvedor com experiência em **C#**, **Node.js**, **TypeScript**, e frameworks como **.Net**, **Next.js** e **React**.  
+📚 Interesse em arquitetura de software, desenvolvimento backend, e soluções para problemas complexos.  
 
 
 
-Um desenvolvedor  pronto para criar coisas novas.............
-
-## Ferramentas e Tecnologias
-<div style="background-color:red">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="60" height="60"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="60" height="60" style="background-colo:white" />
-          
-</div>
-
-
+<!-- 
 ## Estatísticas GitHub
+Este bloco exibe as estatísticas do GitHub, incluindo as linguagens mais usadas e o resumo de atividades do perfil. 
+Os widgets são gerados por meio do serviço GitHub Readme Stats.
+
+Para utilizá-los, basta descomentar o código abaixo e substituir `RafaelCss` pelo seu nome de usuário no GitHub.
 <div>
 <a href="https://github.com/RafaelCss">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCss&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </div>
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-</div>
+-->
+
   
 
 <!--![Snake animation](https://github.com/RafaelCss/RafaelCss/blob/output/github-contribution-grid-snake.svg) -->
