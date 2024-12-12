@@ -9,8 +9,8 @@ Olá! Eu sou o Rafael, um desenvolvedor apaixonado por tecnologia, sempre em bus
 
 
 
-## Estatísticas GitHub
 <!-- 
+## Estatísticas GitHub
 Este bloco exibe as estatísticas do GitHub, incluindo as linguagens mais usadas e o resumo de atividades do perfil. 
 Os widgets são gerados por meio do serviço GitHub Readme Stats.
 
